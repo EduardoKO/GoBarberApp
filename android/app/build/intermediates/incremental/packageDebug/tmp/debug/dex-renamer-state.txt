@@ -1,0 +1,4 @@
+#Tue Sep 29 21:00:25 BRT 2020
+base.0=D\:\\Rocketseat\\GoBarber\\appbarber\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
